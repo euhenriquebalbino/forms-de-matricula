@@ -36,3 +36,7 @@
   --support-violet: #C3B2E7;
   --support-pink: #F682A5;
 }
+
+body {
+  overflow: hidden;
+}
